@@ -39,3 +39,6 @@ Con todo eso listo, podemos proceder al siguiente paso.
 
 ## Configurar la coleccion
 
+Ahora si hicieron los pasos anteriores bien, que es colocar el nombre y la imagen de la coleccion, les aparecera algo como esto:
+
+![Screenshot 2023-02-14 at 17-24-49 Comunidad Steam Steam Workshop Agregar _ editar artículos correlativos](https://user-images.githubusercontent.com/70909800/218854368-2ccddda4-e713-4b0f-b9ac-7598fc283bb5.png)
