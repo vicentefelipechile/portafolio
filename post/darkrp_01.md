@@ -26,4 +26,16 @@ Algunos ejemplos pueden ser:
 - [No-life RP] DarkRP
 ```
 
-### 
+### Imagen
+
+La imagen puede ser importante, porque definira el simbolo del servidor, en sentido de que cuando miren X imagen, diran:
+"_Oh si, esa es la comunidad X_"
+
+Una imagen de ejemplo para que te des una idea pueder ser algo como esto:
+
+![Eso tilin](https://user-images.githubusercontent.com/70909800/218853617-f6bf5c08-f6d6-4ab8-bbc5-76925f19087b.png)
+
+Con todo eso listo, podemos proceder al siguiente paso.
+
+## Configurar la coleccion
+
